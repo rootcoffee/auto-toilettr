@@ -1,2 +1,2 @@
 # auto-toilettr
-A set of script to manage a coffee shop bathroom domotica. 
+A set of scripts to manage a coffee shop bathroom domotica. 
