@@ -40,7 +40,7 @@ rele3flag = 0
 
 # This script will monitor for movement in two bathrooms,
 # and will activate lights, fan and an ozonifier by means of electrical reles.
-# The last one will be connected by a common rele, and will be activated by
+# The ozonifier will be connected by a common rele, and will be activated by
 # move on any bathroom.
 # The seconds for auto off is setup as tmoutvalue global var.
 
